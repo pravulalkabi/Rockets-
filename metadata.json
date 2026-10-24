@@ -1,0 +1,6 @@
+{
+  "name": "Rocket Staging & Propulsion Optimizer",
+  "description": "Aerospace staging and liquid propulsion calculator with barometric atmospheric modeling, Max-Q dynamic pressure calculation, structural G-limit safety enforcement, and automated throttle profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
